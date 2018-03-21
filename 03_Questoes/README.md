@@ -1,1 +1,1 @@
-
+A atividade foi feita juntamente com o aluno Valdeir Maia. As questões foram divididas proporcionalmente, sendo que o Valdeir respondeu as questões de 1 à 4 e eu por sua vez as de 5 à 8. Aprendemos sobre chaves simétricas e assimétricas, GPG e KDC.
